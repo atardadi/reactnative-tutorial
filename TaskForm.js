@@ -1,11 +1,10 @@
 import React from 'react-native';
 
-
 const {
   View,
   TouchableHighlight,
   Text,
-  TextInput
+  TextInput,
 } = React;
 
 const styles = React.StyleSheet.create({
