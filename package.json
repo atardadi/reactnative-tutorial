@@ -1,0 +1,13 @@
+{
+  "name": "fullReactNative",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "react": "^0.14.7",
+    "react-native": "^0.22.0",
+    "react-native-swipeout": "^2.0.12"
+  }
+}
